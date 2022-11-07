@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-truck2-webiste/static/css/main.2331753f.css",
-    "main.js": "/react-truck2-webiste/static/js/main.934e5537.js",
+    "main.js": "/react-truck2-webiste/static/js/main.2250c626.js",
     "static/js/787.dafe1146.chunk.js": "/react-truck2-webiste/static/js/787.dafe1146.chunk.js",
     "static/media/star.mp4": "/react-truck2-webiste/static/media/star.1be58c3a55f414605a5b.mp4",
     "static/media/chlodniabeztla.png": "/react-truck2-webiste/static/media/chlodniabeztla.4aec480eb354b64943ca.png",
@@ -10,11 +10,11 @@
     "static/media/logoEU.jpg": "/react-truck2-webiste/static/media/logoEU.fd3b352a5b68accbd2b9.jpg",
     "index.html": "/react-truck2-webiste/index.html",
     "main.2331753f.css.map": "/react-truck2-webiste/static/css/main.2331753f.css.map",
-    "main.934e5537.js.map": "/react-truck2-webiste/static/js/main.934e5537.js.map",
+    "main.2250c626.js.map": "/react-truck2-webiste/static/js/main.2250c626.js.map",
     "787.dafe1146.chunk.js.map": "/react-truck2-webiste/static/js/787.dafe1146.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2331753f.css",
-    "static/js/main.934e5537.js"
+    "static/js/main.2250c626.js"
   ]
 }
