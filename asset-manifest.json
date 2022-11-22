@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/react-truck2-webiste/static/css/main.92625b7e.css",
-    "main.js": "/react-truck2-webiste/static/js/main.466e5c48.js",
+    "main.css": "/react-truck2-webiste/static/css/main.77bc7c78.css",
+    "main.js": "/react-truck2-webiste/static/js/main.e88291d1.js",
     "static/js/787.dafe1146.chunk.js": "/react-truck2-webiste/static/js/787.dafe1146.chunk.js",
     "static/media/star.mp4": "/react-truck2-webiste/static/media/star.1be58c3a55f414605a5b.mp4",
+    "static/media/beztla5.png": "/react-truck2-webiste/static/media/beztla5.541396fb2afe835ba113.png",
+    "static/media/beztla4.png": "/react-truck2-webiste/static/media/beztla4.5eb283435b4d9ac47efc.png",
     "static/media/bez_tla_wieksze.png": "/react-truck2-webiste/static/media/bez_tla_wieksze.033fe65374fd7c10de6d.png",
     "static/media/beztla3.png": "/react-truck2-webiste/static/media/beztla3.88dc1bdffaf341293020.png",
     "static/media/beztla1.png": "/react-truck2-webiste/static/media/beztla1.2d1bf138877b053dc324.png",
@@ -12,16 +14,16 @@
     "static/media/wywrbeztla-1.png": "/react-truck2-webiste/static/media/wywrbeztla-1.d67a77ab21dac26b4498.png",
     "static/media/galeria2.jpg": "/react-truck2-webiste/static/media/galeria2.89a3cd1457fde84fc7bc.jpg",
     "static/media/galeria3.jpg": "/react-truck2-webiste/static/media/galeria3.f6f01181bbd5d5872e12.jpg",
+    "static/media/logo-beztla_z.png": "/react-truck2-webiste/static/media/logo-beztla_z.f4ff91ec1a10ee90536c.png",
     "static/media/chlodnia1111.jpg": "/react-truck2-webiste/static/media/chlodnia1111.682d2a9abfc62f90d464.jpg",
-    "static/media/logo-beztla_z.png": "/react-truck2-webiste/static/media/logo-beztla_z.dd51a36eec43c66f99eb.png",
     "static/media/logoEU.jpg": "/react-truck2-webiste/static/media/logoEU.fd3b352a5b68accbd2b9.jpg",
     "index.html": "/react-truck2-webiste/index.html",
-    "main.92625b7e.css.map": "/react-truck2-webiste/static/css/main.92625b7e.css.map",
-    "main.466e5c48.js.map": "/react-truck2-webiste/static/js/main.466e5c48.js.map",
+    "main.77bc7c78.css.map": "/react-truck2-webiste/static/css/main.77bc7c78.css.map",
+    "main.e88291d1.js.map": "/react-truck2-webiste/static/js/main.e88291d1.js.map",
     "787.dafe1146.chunk.js.map": "/react-truck2-webiste/static/js/787.dafe1146.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92625b7e.css",
-    "static/js/main.466e5c48.js"
+    "static/css/main.77bc7c78.css",
+    "static/js/main.e88291d1.js"
   ]
 }
