@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-truck2-webiste/static/css/main.abe1440b.css",
-    "main.js": "/react-truck2-webiste/static/js/main.955640ef.js",
+    "main.css": "/react-truck2-webiste/static/css/main.abfa6186.css",
+    "main.js": "/react-truck2-webiste/static/js/main.6a8cf86c.js",
     "static/js/787.dafe1146.chunk.js": "/react-truck2-webiste/static/js/787.dafe1146.chunk.js",
     "static/media/truck-video.mp4": "/react-truck2-webiste/static/media/truck-video.1ac917db90fb503a3fa6.mp4",
     "static/media/star.mp4": "/react-truck2-webiste/static/media/star.1be58c3a55f414605a5b.mp4",
@@ -11,20 +11,23 @@
     "static/media/beztla3.png": "/react-truck2-webiste/static/media/beztla3.88dc1bdffaf341293020.png",
     "static/media/beztla1.png": "/react-truck2-webiste/static/media/beztla1.2d1bf138877b053dc324.png",
     "static/media/beztla2.png": "/react-truck2-webiste/static/media/beztla2.efe5650adddf87cb54ac.png",
+    "static/media/galeria2edit.jpg": "/react-truck2-webiste/static/media/galeria2edit.738c89165aa55fc012df.jpg",
     "static/media/chlodniabeztla.png": "/react-truck2-webiste/static/media/chlodniabeztla.4aec480eb354b64943ca.png",
     "static/media/wywrbeztla-1.png": "/react-truck2-webiste/static/media/wywrbeztla-1.d67a77ab21dac26b4498.png",
     "static/media/galeria2.jpg": "/react-truck2-webiste/static/media/galeria2.89a3cd1457fde84fc7bc.jpg",
+    "static/media/galeria3edit.jpg": "/react-truck2-webiste/static/media/galeria3edit.d6b792ce1e38e7c23167.jpg",
     "static/media/galeria3.jpg": "/react-truck2-webiste/static/media/galeria3.f6f01181bbd5d5872e12.jpg",
     "static/media/logo-beztla_z.png": "/react-truck2-webiste/static/media/logo-beztla_z.f4ff91ec1a10ee90536c.png",
+    "static/media/galeria1edit.jpg": "/react-truck2-webiste/static/media/galeria1edit.3cce30b54588eaacd88f.jpg",
     "static/media/chlodnia1111.jpg": "/react-truck2-webiste/static/media/chlodnia1111.682d2a9abfc62f90d464.jpg",
     "static/media/logoEU.jpg": "/react-truck2-webiste/static/media/logoEU.fd3b352a5b68accbd2b9.jpg",
     "index.html": "/react-truck2-webiste/index.html",
-    "main.abe1440b.css.map": "/react-truck2-webiste/static/css/main.abe1440b.css.map",
-    "main.955640ef.js.map": "/react-truck2-webiste/static/js/main.955640ef.js.map",
+    "main.abfa6186.css.map": "/react-truck2-webiste/static/css/main.abfa6186.css.map",
+    "main.6a8cf86c.js.map": "/react-truck2-webiste/static/js/main.6a8cf86c.js.map",
     "787.dafe1146.chunk.js.map": "/react-truck2-webiste/static/js/787.dafe1146.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe1440b.css",
-    "static/js/main.955640ef.js"
+    "static/css/main.abfa6186.css",
+    "static/js/main.6a8cf86c.js"
   ]
 }
